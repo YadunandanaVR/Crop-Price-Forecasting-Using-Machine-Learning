@@ -1,0 +1,5 @@
+open your CMD in the project directory and run below command to start the jupyter notebook
+> jupyter notebook
+
+Open jupyter notebook in our Browser.
+Open object_crop.ipynb file and run all the cell
